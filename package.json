@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "chalk": "^4.1.1",
     "dotenv": "^10.0.0",
     "request": "^2.88.2"
   }
